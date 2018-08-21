@@ -26,9 +26,9 @@ return [
             'connection' => [
                 'driver' => 'pdo_mysql',
                 'host' => 'localhost',
-                'dbname' => 'mejuicer',
-                'user' => 'mejuicer',
-                'password' => '&&80^usually^CHIEF^colour^16&&',
+                'dbname' => 'slim-auth',
+                'user' => 'root',
+                'password' => 'cesspit2',
             ],
         ],
     ],
